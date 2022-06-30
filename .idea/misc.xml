@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable-v24/button_background.xml" value="0.2275" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable-v24/edittextbackground.xml" value="0.22" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable-v24/goback.xml" value="0.1805" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable-v24/ic_home_black_24dp.xml" value="0.196" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable-v24/liveback.xml" value="0.1805" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable-v24/livefragment.xml" value="0.1805" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable/cardbackground.xml" value="0.1805" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable/ic_blue_mark.xml" value="0.1805" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable/ic_cart.xml" value="0.1805" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable/ic_chat.xml" value="0.147" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable/ic_down.xml" value="0.1805" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable/ic_graph.xml" value="0.1805" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable/ic_greenuser.xml" value="0.1805" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable/ic_home.xml" value="0.147" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable/ic_home_search.xml" value="0.1805" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1805" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable/ic_minchat.xml" value="0.1805" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable/icon_search.xml" value="0.147" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable/leftbuttonback.xml" value="0.1805" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable/rightbuttonback.xml" value="0.1805" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable/unleftbuttonback.xml" value="0.1805" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/drawable/unrightbuttonback.xml" value="0.1805" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/activity_broadcast.xml" value="0.33" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/activity_confrimation.xml" value="0.22" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/activity_getbadge.xml" value="0.2947916666666667" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/activity_live.xml" value="0.25" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/activity_menu.xml" value="0.2" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/activity_photo.xml" value="0.21248396750748183" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/activity_profilesetting.xml" value="0.33" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/activity_psot.xml" value="0.25" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/activity_record.xml" value="0.21248396750748183" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/activity_register.xml" value="0.2947916666666667" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/activity_sell.xml" value="0.22402736212056434" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/activity_splash.xml" value="0.17395833333333333" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/activity_start.xml" value="0.25" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/activity_users.xml" value="0.25" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/activity_video.xml" value="0.21248396750748183" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/broadcast_list.xml" value="0.22402736212056434" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/chatheader_list.xml" value="0.33" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/chatmain_list.xml" value="0.33" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/fragment_audio.xml" value="0.33" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/fragment_chat.xml" value="0.33" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/fragment_dashboard.xml" value="0.2947916666666667" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/fragment_notifications.xml" value="0.2947916666666667" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/fragment_photo.xml" value="0.22402736212056434" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/fragment_search.xml" value="0.25" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/fragment_video.xml" value="0.21248396750748183" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/mainheader_list.xml" value="0.25885416666666666" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/mainhome_list.xml" value="0.33" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/photo_list.xml" value="0.21248396750748183" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/record_list.xml" value="0.33" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/searchheader_list.xml" value="0.25885416666666666" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/searchmain_list.xml" value="0.33" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/user_list.xml" value="0.22402736212056434" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/layout/video_list.xml" value="0.21248396750748183" />
+        <entry key="..\:/todo/111/MyApplication2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2947916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

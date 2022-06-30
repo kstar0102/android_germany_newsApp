@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:backgroundTint="@color/splashbackground"
+    >
+    <LinearLayout
+        android:background="@color/splashbackground"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="10dp"
+        android:padding="5dp">
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/chat_header_image"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/addimage"/>
+
+        <TextView
+            android:id="@+id/chat_haeder_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add story"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:layout_marginTop="2dp"
+            />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

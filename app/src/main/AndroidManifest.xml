@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.germeny.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication">
+
+        <activity
+            android:name=".auth.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".auth.StartActivity" />
+        <activity android:name=".auth.LoginActivity" />
+        <activity android:name=".auth.RegisterActivity" />
+        <activity android:name=".auth.GetbadgeActivity" />
+        <activity
+            android:name=".auth.MainActivity"
+            android:exported="true" />
+        <activity android:name=".auth.MenuActivity" />
+        <activity android:name=".auth.UsersActivity" />
+        <activity android:name=".auth.RecordActivity" />
+        <activity android:name=".auth.PhotoActivity" />
+        <activity android:name=".auth.VideoActivity" />
+        <activity android:name=".auth.BroadcastActivity" />
+        <activity android:name=".auth.ConfirmationActivity" />
+        <activity android:name=".auth.SellActivity" />
+        <activity android:name=".auth.ProfileSettingActivity" />
+        <activity android:name=".auth.PostActivity" />
+        <activity android:name=".auth.LiveActivity"/>
+    </application>
+
+</manifest>

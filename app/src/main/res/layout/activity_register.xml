@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/splashbackground">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/app_name"
+                android:textColor="@color/descolor"
+                android:textStyle="bold"
+                android:textSize="22dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="50dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Create an account"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="38dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Create your account to get access to all of our features."
+                android:textColor="@color/descolor"
+                android:layout_marginLeft="30dp"
+                android:layout_marginBottom="40dp"
+                android:textSize="18dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="130dp"/>
+
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:textSize="18dp"
+                android:textColor="@color/white"
+                android:paddingLeft="30dp"
+                android:hint="Username"
+                android:textColorHint="@color/white"
+                android:layout_marginRight="30dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/edittextbackground"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:textSize="18dp"
+                android:textColor="@color/white"
+                android:paddingLeft="30dp"
+                android:hint="Full Name"
+                android:textColorHint="@color/white"
+                android:layout_marginRight="30dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/edittextbackground"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:textSize="18dp"
+                android:textColor="@color/white"
+                android:paddingLeft="30dp"
+                android:hint="Email Address"
+                android:textColorHint="@color/white"
+                android:layout_marginRight="30dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/edittextbackground"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:textSize="18dp"
+                android:textColor="@color/white"
+                android:paddingLeft="30dp"
+                android:hint="Date of birth"
+                android:textColorHint="@color/white"
+                android:layout_marginRight="30dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/edittextbackground"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:textSize="18dp"
+                android:textColor="@color/white"
+                android:paddingLeft="30dp"
+                android:hint="Place of birth"
+                android:textColorHint="@color/white"
+                android:layout_marginRight="30dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/edittextbackground"/>
+
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:textSize="18dp"
+                android:textColor="@color/white"
+                android:paddingLeft="30dp"
+                android:hint="........"
+                android:textColorHint="@color/white"
+                android:layout_marginRight="30dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:drawableRight="@drawable/eye"
+                android:paddingRight="5dp"
+                android:background="@drawable/edittextbackground"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/descolor"
+                android:text="By creating an account. you agree to our teams and privacy policy"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:textSize="15dp"
+                android:layout_marginRight="10dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dip"
+                android:layout_weight="1"
+                android:gravity="center|bottom"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="60dp"
+                android:orientation="vertical" >
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/createBtn"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:text="Create Account"
+                    android:textSize="18dp"
+                    android:textColor="@color/splashbackground"
+                    app:cornerRadius="8dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"
+                    android:backgroundTint="@color/white"
+                    app:strokeWidth="1dp"/>
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+
+
+</LinearLayout>
